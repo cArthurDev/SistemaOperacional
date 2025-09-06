@@ -1,0 +1,14 @@
+============================== TABELA DE PROCESSOS ==============================
+Gerado em: Sat Sep 06 14:48:48 GMT-03:00 2025
+---------------------------------------------------------
+PID: 0 | Estado: TERMINADO  | TP: 10000/10000 | CP: 10001 | N_CPU: 101 | NES: 100
+PID: 1 | Estado: TERMINADO  | TP:  5000/5000  | CP:  5001 | N_CPU:  38 | NES:  37
+PID: 2 | Estado: TERMINADO  | TP:  7000/7000  | CP:  7001 | N_CPU:  73 | NES:  72
+PID: 3 | Estado: TERMINADO  | TP:  3000/3000  | CP:  3001 | N_CPU:  26 | NES:  25
+PID: 4 | Estado: TERMINADO  | TP:  3000/3000  | CP:  3001 | N_CPU:  32 | NES:  31
+PID: 5 | Estado: TERMINADO  | TP:  8000/8000  | CP:  8001 | N_CPU:  88 | NES:  87
+PID: 6 | Estado: TERMINADO  | TP:  2000/2000  | CP:  2001 | N_CPU:  26 | NES:  25
+PID: 7 | Estado: TERMINADO  | TP:  5000/5000  | CP:  5001 | N_CPU:  42 | NES:  41
+PID: 8 | Estado: TERMINADO  | TP:  4000/4000  | CP:  4001 | N_CPU:  51 | NES:  50
+PID: 9 | Estado: TERMINADO  | TP: 10000/10000 | CP: 10001 | N_CPU: 100 | NES:  99
+==================================================================================
